@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Sumin Jung"
 title_separator          : "-"
 name                     : &name "Sumin Jung"
-description              : &description "Ph.D. Applicant"
-url                      : "https://s2-sumin-jung/sjung.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "s2-sumin-jung/sjung.github.io"
 
@@ -21,7 +21,7 @@ repository               : "s2-sumin-jung/sjung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Sumin Jung"
   pronouns         : "she/her"  
   bio              : ""
