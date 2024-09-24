@@ -21,10 +21,10 @@ repository               : "s2-sumin-jung/sjung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Sumin Jung"
   pronouns         : "she/her"  
-  bio              : "Wish you happy!"
+  bio              : "Wish you healthy and happy!"
   location         : "Seoul, South Korea"
   employer         : "Seoul National University"
   uri              : # URL

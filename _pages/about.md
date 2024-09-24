@@ -11,10 +11,9 @@ redirect_from:
 {% include base_path %}
 
 <br/>
-Sumin Jung is currently working as a research intern in the [Stanford Psychophysiology Lab](https://spl.stanford.edu/), having completed her M.A. in [Social Psychology](http://snusocialpsy.com/) and B.A. in Psychology at Seoul National University based on South Korea. Her research focuses on how social-affective cognition influence well-being, with a particular emphasis on emotion regulation and health behaviors. She is particularly fascinated by the application of mixed methods—including surveys, experimental designs, experience sampling, natural language processing, and intervention studies—to explore these topics. In her free time, she enjoys weightlifting, running, reading, cafe tours, and cooking Korean food!
+Sumin Jung is currently working as a research intern in the [Stanford Psychophysiology Lab](https://spl.stanford.edu/), having completed her M.A. in [Social Psychology](http://snusocialpsy.com/) and B.A. in Psychology at Seoul National University based on South Korea. 🇰🇷 Her research focuses on how social-affective cognition influence well-being, with a particular emphasis on emotion regulation and health behaviors. She is particularly fascinated by the application of mixed methods—including surveys, experimental designs, experience sampling, natural language processing, and intervention studies—to explore these topics. In her free time, she enjoys weightlifting, running, reading, cafe tours, and cooking Korean food!
 <br/>
 <br/>
----
 
 # Education
   
@@ -32,7 +31,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <summary>B.A. in Psychology, Seoul National University, 2016-2020</summary>
 <div markdown="1">       
 
-* Summa cum laude
+* *Summa cum laude*
 * Minor in Brain-Mind-Behavior
 
 </div>
@@ -45,7 +44,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <summary>Stanford University Psychophysiology Laboratory, March 2024-Ongoing</summary>
 <div markdown="1">       
 
-* Director: Dr. James Gross
+* **Director: Dr. James Gross**
 * Research Assistant
 * Co-authored two research papers (Mentor: Dr. Sylvia Kreibig)
 * Drafted and revised manuscripts and developed hypotheses
@@ -60,7 +59,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <summary>Seoul National University Center for Happiness Studies, 2021-2023</summary>
 <div markdown="1">       
 
-* Director: Dr. Incheol Choi
+* **Director: Dr. Incheol Choi**
 * Graduate Research Assistant
 * Co-authored two research projects (Mentor: Dr. Mina Jyung) 
 * Contributed to the co-authorship of annual happiness reports 
@@ -74,7 +73,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <summary>Seoul National University Social Psychology Lab, 2019-2020</summary>
 <div markdown="1">       
 
-* Director: Dr. Incheol Choi
+* **Director: Dr. Incheol Choi**
 * Undergraduate Research Assistant
 * Assisted in conducting lab experiments 
 * Offered feedback on working papers
@@ -88,7 +87,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <summary>Seoul National University Computational Clinical Science Lab, 2019</summary>
 <div markdown="1">       
 
-* Director: Dr. Woo-Young Ahn
+* **Director: Dr. Woo-Young Ahn**
 * Undergraduate Research Assistant
 * Actively assisted in the fMRI data collection process 
 * Wrote bachelor’s thesis using behavioral and fMRI data from the National Institutes of Health’s Adolescent Brain
