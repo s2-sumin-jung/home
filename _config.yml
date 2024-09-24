@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sumin Jung"
+title                    : "Sumin's Homepage"
 title_separator          : "-"
 name                     : &name "Sumin Jung"
 description              : &description "Psychology Lover"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Sumin Jung"
   pronouns         : "she/her"  
-  bio              : "Wish you happy!"
+  bio              : "Wish you healthy and happy!"
   location         : "Seoul, South Korea"
   employer         : #"Seoul National University"
   uri              : # URL
