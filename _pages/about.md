@@ -21,7 +21,8 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <summary>M.A. in Social Psychology, Seoul National University, 2021-2023</summary>
 <div markdown="1">       
 
-* **Thesis**: Why Do Happy People Exercise More? The Roles of Beliefs in the Psychosocial Benefits of Exercise.
+* **Thesis**
+  * Why Do Happy People Exercise More? The Roles of Beliefs in the Psychosocial Benefits of Exercise.
 
 </div>
 </details>
@@ -31,7 +32,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <summary>B.A. in Psychology, Seoul National University, 2016-2020</summary>
 <div markdown="1">       
 
-* *Summa cum laude*
+* **Summa cum laude**
 * Minor in Brain-Mind-Behavior
 
 </div>
@@ -41,7 +42,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 ## RESEARCH EXPERIENCE
   
 <details>
-<summary>**Stanford University Psychophysiology Laboratory, March 2024-Ongoing**</summary>
+<summary>Stanford University Psychophysiology Laboratory, March 2024-Ongoing</summary>
 <div markdown="1">       
 
 * **Director: Dr. James Gross**
@@ -56,7 +57,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 
 
 <details>
-<summary>**Seoul National University Center for Happiness Studies, 2021-2023**</summary>
+<summary>Seoul National University Center for Happiness Studies, 2021-2023</summary>
 <div markdown="1">       
 
 * **Director: Dr. Incheol Choi**
@@ -70,7 +71,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 </details>
 
 <details>
-<summary>**Seoul National University Social Psychology Lab, 2019-2020**</summary>
+<summary>Seoul National University Social Psychology Lab, 2019-2020</summary>
 <div markdown="1">       
 
 * **Director: Dr. Incheol Choi**
@@ -84,7 +85,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 </details>
 
 <details>
-<summary>**Seoul National University Computational Clinical Science Lab, 2019**</summary>
+<summary>Seoul National University Computational Clinical Science Lab, 2019</summary>
 <div markdown="1">       
 
 * **Director: Dr. Woo-Young Ahn**
@@ -102,7 +103,7 @@ Cognitive Development dataset using R and Python
 ## WORK EXPERIENCE
 
 <details>
-<summary>**Goodlife Lab, 2022-2023**</summary>
+<summary>Goodlife Lab, 2022-2023</summary>
 <div markdown="1">       
 
 * Researcher & Product Manager
@@ -114,7 +115,7 @@ Cognitive Development dataset using R and Python
 </details>
 
 <details>
-<summary>**LOMY, 2021-2022**</summary>
+<summary>LOMY, 2021-2022</summary>
 <div markdown="1">       
 
 * CEO, Front-end developer
@@ -126,7 +127,7 @@ Cognitive Development dataset using R and Python
 </details>
 
 <details>
-<summary>**CJ AI Research Center, 2021**</summary>
+<summary>CJ AI Research Center, 2021</summary>
 <div markdown="1">       
 
 * Research Intern
