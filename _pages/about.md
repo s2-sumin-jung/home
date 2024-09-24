@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hi! I'm Sumin. Happy to meet you! 🤗"
+title: "Hi! I'm Sumin. 
+Happy to meet you! 🤗"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,8 +13,8 @@ redirect_from:
 
 Sumin Jung is currently working as a research intern in the [Stanford Psychophysiology Lab](https://spl.stanford.edu/), having completed her M.A. in [Social Psychology](http://snusocialpsy.com/) and B.A. in Psychology at Seoul National University based on South Korea. Her research focuses on how social-affective cognition influence well-being, with a particular emphasis on emotion regulation and health behaviors. She is particularly fascinated by the application of mixed methods—including surveys, experimental designs, experience sampling, natural language processing, and intervention studies—to explore these topics. In her free time, she enjoys weightlifting, running, reading, cafe tours, and cooking Korean food!
   
-  
 
+  
 # Education
   
 <details>
@@ -35,7 +36,9 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 
 </div>
 </details>
-  
+
+
+
 # RESEARCH EXPERIENCE
   
 <details>
@@ -100,11 +103,12 @@ Cognitive Development dataset using R and Python
 </div>
 </details>
   
+
+
 # WORK EXPERIENCE
-  
 
 <details>
-<h3><summary>Goodlife Lab, 2022-2023</summary></h3>
+<summary><h3>Goodlife Lab, 2022-2023</h3></summary>
 <div markdown="1">       
 
 * Researcher & Product Manager
@@ -128,7 +132,7 @@ Cognitive Development dataset using R and Python
 </details>
 
 <details>
-<summary> LOMY, 2021-2022 </summary>
+<summary> CJ AI Research Center, 2021 </summary>
 <div markdown="1">       
 
 * Research Intern
