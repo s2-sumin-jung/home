@@ -41,7 +41,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 ## RESEARCH EXPERIENCE
   
 <details>
-<summary>Stanford University Psychophysiology Laboratory, March 2024-Ongoing</summary>
+<summary>###Stanford University Psychophysiology Laboratory, March 2024-Ongoing</summary>
 <div markdown="1">       
 
 * **Director: Dr. James Gross**
