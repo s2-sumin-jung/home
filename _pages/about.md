@@ -15,7 +15,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <br/>
 <br/>
 
-# Education
+## Education
   
 <details>
 <summary>M.A. in Social Psychology, Seoul National University, 2021-2023</summary>
@@ -38,7 +38,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 </details>
 <br/>
 
-# RESEARCH EXPERIENCE
+## RESEARCH EXPERIENCE
   
 <details>
 <summary>Stanford University Psychophysiology Laboratory, March 2024-Ongoing</summary>
@@ -99,7 +99,7 @@ Cognitive Development dataset using R and Python
 </details>
 <br/>
 
-# WORK EXPERIENCE
+## WORK EXPERIENCE
 
 <details>
 <summary>Goodlife Lab, 2022-2023</summary>
