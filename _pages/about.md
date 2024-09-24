@@ -15,7 +15,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <br/>
 <br/>
 
-## Education
+## EDUCATION
   
 <details>
 <summary>M.A. in Social Psychology, Seoul National University, 2021-2023</summary>
