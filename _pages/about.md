@@ -9,10 +9,13 @@ redirect_from:
 ---
 {% include base_path %}
 
-Sumin Jung is currently working as a research intern in [the Stanford Psychophysiology Lab](https://spl.stanford.edu/), having completed her M.A. in [Social Psychology](http://snusocialpsy.com/) and B.A. in Psychology at Seoul National University based on South Korea. Her research focuses on how social-affective cognition influence well-being, with a particular emphasis on emotion regulation and health behaviors. She is particularly fascinated by the application of mixed methods—including surveys, experimental designs, experience sampling, natural language processing, and intervention studies—to explore these topics. In her free time, she enjoys weightlifting, running, reading, cafe tours, and cooking Korean food!
+
+Sumin Jung is currently working as a research intern in the [Stanford Psychophysiology Lab](https://spl.stanford.edu/), having completed her M.A. in [Social Psychology](http://snusocialpsy.com/) and B.A. in Psychology at Seoul National University based on South Korea. Her research focuses on how social-affective cognition influence well-being, with a particular emphasis on emotion regulation and health behaviors. She is particularly fascinated by the application of mixed methods—including surveys, experimental designs, experience sampling, natural language processing, and intervention studies—to explore these topics. In her free time, she enjoys weightlifting, running, reading, cafe tours, and cooking Korean food!
+  
+  
 
 # Education
-------
+  
 <details>
 <summary>M.A. in Social Psychology, Seoul National University, 2021-2023</summary>
 <div markdown="1">       
@@ -32,12 +35,9 @@ Sumin Jung is currently working as a research intern in [the Stanford Psychophys
 
 </div>
 </details>
-
-------
-
+  
 # RESEARCH EXPERIENCE
-
-------
+  
 <details>
 <summary>Stanford University Psychophysiology Laboratory, March 2024-Ongoing</summary>
 <div markdown="1">       
@@ -99,26 +99,21 @@ Cognitive Development dataset using R and Python
 
 </div>
 </details>
-
-------
-
+  
 # WORK EXPERIENCE
-
-------
+  
 
 <details>
-<summary><h2>Goodlife Lab, 2022-2023</h2></summary>
+<h3><summary>Goodlife Lab, 2022-2023</summary></h3>
 <div markdown="1">       
 
 * Researcher & Product Manager
 * Developed a web-based well-being index assessment, personalized feedback, and wellness interventions 
-* actively engaged in corporate strategy and co-authored an IR document in healthcare industry 
+* Actively engaged in corporate strategy and co-authored an IR document in healthcare industry 
 * Conducted consumer interviews and client coordination.
 
 </div>
 </details>
-
-------
 
 <details>
 <summary> LOMY, 2021-2022 </summary>
@@ -131,8 +126,6 @@ Cognitive Development dataset using R and Python
 
 </div>
 </details>
-
-------
 
 <details>
 <summary> LOMY, 2021-2022 </summary>
