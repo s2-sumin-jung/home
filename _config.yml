@@ -12,7 +12,7 @@ title                    : "Sumin Jung"
 title_separator          : "-"
 name                     : &name "Sumin Jung"
 description              : &description "Psychology Lover"
-url                      : s2-sumin-jung.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://s2-sumin-jung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "s2-sumin-jung/home"
 
