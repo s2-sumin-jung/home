@@ -27,12 +27,13 @@ redirect_from:
   - One experiment study conducted. Finalizing manuscript in progress.
 - Kreibig, S.D., **Jung, S.**, Samson, A.C., Gross, J.J. (*in preparation*). Temporal Dynamics of Regulating Mixed Emotions: Facial Expressive Responses During Goal-Directed Cognitive Reappraisal.
   - One experiment study conducted. Write-up in progress.
+- Hong, E. K., **Jung, S.**, Kim, J., & Choi, I. (*in preparation*). Better than ever: Longitudinal evidence for past-degrading tendency as a happiness maintenance strategy among self-enhancers.
+  - Three longitudinal studies conducted. Write-up in progress.
 - Jyung, M., **Jung, S.**, & Choi, I. (*in preparation*). Differential Effects of Valuing Happiness on Well-being.
   - Three cross-sectional studies conducted. Write-up in progress.
 - **Jung, S.**, Jyung, M., & Choi, I. (*in preparation*). Valuing Relationship Buffers the Happiness Cost of Valuing Money
   - Three cross-sectional studies conducted. Write-up in progress.
-- Hong, E. K., **Jung, S.**, Kim, J., & Choi, I. (*in preparation*). Better than ever: Longitudinal evidence for past-degrading tendency as a happiness maintenance strategy among self-enhancers.
-  - Three longitudinal studies conducted. Write-up in progress.
+
 <br/>
 
 
