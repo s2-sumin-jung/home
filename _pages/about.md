@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 <br/>
-Sumin Jung is currently working as a research intern in the [Stanford Psychophysiology Lab](https://spl.stanford.edu/), having completed her M.A. in [Social Psychology](http://snusocialpsy.com/) and B.A. in Psychology at Seoul National University based on South Korea🇰🇷. Her research focuses on how social-affective cognition influence well-being, with a particular emphasis on emotion regulation and health behaviors. She is particularly fascinated by the application of mixed methods—including surveys, experimental designs, experience sampling, natural language processing, and intervention studies—to explore these topics. In her free time, she enjoys weightlifting, running, reading, cafe tours, and cooking Korean food!
+I am currently working as a research intern in the [Stanford Psychophysiology Lab](https://spl.stanford.edu/), having completed her M.A. in [Social Psychology](http://snusocialpsy.com/) and B.A. in Psychology at Seoul National University based on South Korea🇰🇷. My research focuses on how social-affective cognition influences psychophysiological well-being, with a particular emphasis on beliefs, goals, and emotion regulation. I am particularly fascinated by the application of mixed methods—including surveys, experimental designs, experience sampling, natural language processing, and intervention studies—to explore these topics. In my free time, I enjoy weightlifting, running, reading, cafe tours, and cooking Korean food!
 <br/>
 <br/>
 
@@ -21,6 +21,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <summary>M.A. in Social Psychology, Seoul National University, 2021-2023</summary>
 <div markdown="1">       
 
+* **Advisor: Dr. Incheol Choi**
 * **Thesis**
   * Why Do Happy People Exercise More? The Roles of Beliefs in the Psychosocial Benefits of Exercise.
 
@@ -32,7 +33,7 @@ Sumin Jung is currently working as a research intern in the [Stanford Psychophys
 <summary>B.A. in Psychology, Seoul National University, 2016-2020</summary>
 <div markdown="1">       
 
-* **Summa cum laude**
+* *Summa cum laude*
 * Minor in Brain-Mind-Behavior
 
 </div>
