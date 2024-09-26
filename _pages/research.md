@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-*Updated: Sep 26
+*Updated: Sep 26*
 ## Publication
 ### Submitted
 - Jung, Y., **Jung, S.**, & Hahn, S. (*Revise and resubmit*). The Effect of Emotional Clarity on Happiness, Depressive Symptoms, and Neuroticism: The Mediating Role of Catastrophizing.
