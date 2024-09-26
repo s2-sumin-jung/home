@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sumin's Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sumin Jung"
 description              : &description "Psychology Lover"
